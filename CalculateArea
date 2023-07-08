@@ -4,9 +4,9 @@ public static void main(String[] args){
 double pi,r,a;
 
 r=10.8;
-pi= 3.1416 //aproximate value for pi
+pi= 3.1416; //aproximate value for pi
 
-a= pi*r*r //area formula
+a= pi*r*r; //area formula
 
 System.out.println("The area of the circle is: "+a);
 
