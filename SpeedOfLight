@@ -1,14 +1,21 @@
 public class Light{
 
-public static void main(Sting[] args){
+public static void main(String[] args){
 int lightspeed;
 long days;
+long seconds;
 long distance;
 
 lightspeed = 186000;
 days = 1000;//specify a number of days
-seconds = days*4*60*60 //conversion to seconds
+seconds = days*4*60*60; //conversion to seconds
 distance = lightspeed*seconds;
+
+System.out.print("In "+days);
+
+System.out.print(" days light will travel about ");
+
+System.out.println(distance +" miles.");
 
 
 }
