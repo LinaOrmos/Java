@@ -1,0 +1,16 @@
+public class Light{
+
+public static void main(Sting[] args){
+int lightspeed;
+long days;
+long distance;
+
+lightspeed = 186000;
+days = 1000;//specify a number of days
+seconds = days*4*60*60 //conversion to seconds
+distance = lightspeed*seconds;
+
+
+}
+
+}
