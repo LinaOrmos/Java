@@ -1,1 +1,8 @@
 //This is another example of two dimentional arrays
+public class TDA{
+public static void main(String[] args){
+
+int TD[][] = new int [4][];
+}
+
+}
