@@ -9,7 +9,20 @@ TD[2] = new int[3];
 TD[3] = new int[4];
 
 int i,j,k=0;
-for(
+for(i=0;i<4;i++)
+{
+for(j=0;j<i+1;j++)
+{
+TD[i][j]  k;
+k++;
+
+}
+}
+for(i=0;i<4;i++)
+{
+System.out.println(TD[i][j]+ " ");
+}
+System.out.println();
 
 }
 
