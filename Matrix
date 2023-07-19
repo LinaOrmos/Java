@@ -1,9 +1,10 @@
 //This is the first example of a matrix with Java
 
+
 public class Matrix{
     
     public static void main(String[] args){
-        double =[][]=
+        double m[][]=
         {
             
             {0*0, 1*0, 2*0, 3*0},
@@ -14,13 +15,13 @@ public class Matrix{
         
         int i,j;
         
-        for(i=0;ii<4;i++)
+        for(i=0;i<4;i++)
         {
             for(j=0;j<4;j++)
             {
                 System.out.print(m[i][j]);
             }
-            System.outprintln();
+            System.out.println();
         }
     }
     
