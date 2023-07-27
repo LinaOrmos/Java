@@ -2,3 +2,7 @@
 // it initialize the atributes of an object
 //it invoque to the constructtor of the class that could be
 //one among many
+//they have the same name as the class
+//they don't bring back any value
+//They should be declared as public
+
