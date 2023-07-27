@@ -6,3 +6,22 @@
 //they don't bring back any value
 //They should be declared as public
 
+
+public class person {
+    public static void main(String args[]) {
+        string name;
+        int age;
+        
+        //methode
+        
+        public person(String _name, int _age){
+            name = _name;
+            age = _age;
+        }
+        public void DisplayData(){
+            System.out.println("The name is:" +name);
+            System..out.println("The age is:" +age);
+        }
+    }
+}
+
