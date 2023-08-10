@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class MyClass {
+    public static void main(String args[]) {
+      Scanner sc = new Scanner(System.in);
+      System.out.println("Nombre: ");
+      String name = sc.next();
+      System.out.println("El nombre es: "+name);
+      System.out.println("Apellido");
+      String apellido = sc.nextLine();
+      System.out.println(" El apellidoo es:"+apellido);
+    }
+}
