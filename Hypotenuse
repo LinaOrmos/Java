@@ -1,8 +1,10 @@
 //This is an example for initializing variables
 
+//We nitialize our public class
 public class InitVar{
 public static void main(String[] args){
 
+//We define the lenght sizes for a triangle
 double a= 3.0,b= 4.0;
 double c= Math.sqrt(a*a+b*b);
 System.out.println("The Hypotenuse is "+c);
